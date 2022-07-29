@@ -1,0 +1,21 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [ "ZL9DDXABC9.com.infogenLabs.NewAPP" ],
+                "components": [
+
+                ],
+                "paths": [ "/iOS-Universal-Links/*" ]
+
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [ "https://saurabh281097.github.io/testwebsite/" ]
+    },
+
+    "appclips": {
+        "apps": [ "ZL9DDXABC9.com.infogenLabs.NewAPP.Clip" ]
+    }
+}
